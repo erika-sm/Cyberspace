@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1006",
+    "name": "V",
+    "bio": "Few leave the corporate world with their lives - fewer still with their souls intact. You've been there - you've bent the rules, exploited secrets and weaponized information. There's no such thing as a fair game, only winners and losers.",
+    "friends": ["1007", "1008", "1009", "1013", "1016", "1017", "1018", 
+    "1020", "1021", "1023", "1024", "1025", "1026", "1027"],
+    "avatarUrl": "/images/Avatars/V.PNG"
+  },
+  {
+    "id": "1007",
+    "name": "Johnny Silverhand",
+    "bio": "Frontman for Samurai, charismatic visionary, rebel with a cause, sworn enemy of corporations (but especially Arasaka) and the mind behind the cult singles 'Chippin' In' and 'Never Fade Away' - currently residing in V's brain as a digitized tenant.",
+    "friends": ["1006", "1016", "1020", "1027"],
+    "avatarUrl": "/images/Avatars/Johnny.PNG"
+  },
+  {
+    "id": "1008",
+    "name": "Judy Alvarez",
+    "bio": "One of braindance's most gifted editors and a skilled techie. If she wanted to, she could get hired at any corpo entertainment studio and make bank, but Judy values her independence too much to sell out - she rejects every offer that comes her way. Her anarchist spirit drew her to the Mox in the hope that they could improve the lives of people in Night City. Her biggest flaw is that she can't keep her mouth shut in the face of injustice - something that always gets her in trouble. For some, though, it's her greatest virtue",
+    "friends": ["1006", "1013", "1018", "1021", "1024"],
+    "avatarUrl": "/images/Avatars/Judy.PNG"
+  },
+  {
+    "id": "1009",
+    "name": "Jackie Welles",
+    "bio": "A proud son of Heywood and an even prouder son of Mama Welles. Jackie's stubborn - when he wants something, he won't stop (or shut up about it) until he gets his hands on it. Jackie always wanted a lot out of life - maybe too much.",
+    "friends": ["1006", "1013", "1017", "1018", "1021", "1026"],
+    "avatarUrl": "/images/Avatars/Jackie.PNG"
+  },
+  {
+    "id": "1013", 
+    "name": "Panam Palmer",
+    "bio": "Panam is a nomad - although, maybe 'ex-nomad' rings truer these days. She locked horns with the family's leader, Saul, left Aldecaldo nation and moved to Night City to try her luck as a merc. Panam's life is at a crossroads - on one hand she knows her life needs a change, it's now or never. On the other hand, burning bridges with the nomad family where all her friends are might have been a bit drastic. On top of that, Night City doesn't take too kindly to nomads or have patience for people like Panam who are internally conflicted and dream of a brighter future",
+    "friends": ["1006", "1008", "1009", "1025" ],
+    "avatarUrl": "/images/Avatars/Panam.PNG"
+  },
+  {
+    "id": "1014",
+    "name": "Adam Smasher",
+    "bio": "What with a full-body conversion, not much is left of Adam Smasher the man. Well... his humanity was always questionable. Smasher's in charge of taking out Arasaka's dirty laundry, but he likes to do things his own way. ",
+    "friends": ["1015", "1028"],
+    "avatarUrl": "/images/Avatars/Adam.PNG"
+  },
+  {
+    "id": "1015",
+    "name": "Yorinobu Arasaka",
+    "bio": "The son of Saburo Arasaka, leader of the world's biggest arms manufacturing corporation. Ever since his young, rebellious years, there's been a lot of friction between Yorinobu and his father, though as to why - that's anyone's guess. Known for his difficult personality and controversial opinions, he doesn't fulfill any important role in Arasaka. Despite his urgent calls for change in the corporation, Yorinobu doesn't really want to take the helm - being a billionaire is currently much more fun.",
+    "friends": ["1014", "1028"],
+    "avatarUrl": "/images/Avatars/Arasaka.PNG"
+  },
+  {
+    "id": "1016",
+    "name": "Kerry Eurodyne",
+    "bio": "A devilishly talented musician, incorrigible rebel, celebrity, and rockerboy from Night City. People say different things about Kerry, but there's no doubt he's America's God of rock. In the old days, he played bass next to Johnny Silverhand in the cult rock band Samurai. When the two drifted apart, Eurodyne kickstarted a solo career which, in spite of its ups and downs, is still going strong. Kerry's proud of his Filipino roots, though for someone of his fame, he's especially private about his personal life. For all its numerous flaws, he's made Night City his own - his most faithful muse.",
+    "friends": ["1006", "1007", "1020", "1027"],
+    "avatarUrl": "/images/Avatars/Kerry.PNG"
+  },
+  {
+    "id": "1017",
+    "name": "Misty Olszewski",
+    "bio": "While Viktor is a healer of bullet and blade wounds, Misty is a mender of broken spirits. Misty's Esoterica, a small shop in front of a ripperdoc clinic, is stocked with an assortment of aura-cleansing incense sticks, yarrow stems, Tibetan 'Book of the Dead' shards and pendants for good luck. Though Misty gets more costumers than Viktor, this smart and sensitive woman somehow always finds the time to help her friend in difficult moments - at times almost taking on the role of a full-fledged nurse.",
+    "friends": ["1006", "1009", "1021", "1023"],
+    "avatarUrl": "/images/Avatars/Misty.PNG"
+  },
+  {
+    "id": "1018",
+    "name": "Evelyn Parker",
+    "bio": "Evelyn is a beautiful enigma. At first glance, she's nothing but riddles and contradictions; while Evelyn looks like a high-ranking corpo, she arranges a meeting in some streetgang dive bar. She seems to be a rich worldly woman, but she rounds up a rag-tag bunch of rookie mercs to swipe something for her. Humorous and charming, yet she drives a hard bargain. Puts her faith in professionals, but still wants to pull all the strings.",
+    "friends": ["1006", "1008", "1009"],
+    "avatarUrl": "/images/Avatars/Evelyn.PNG"
+  },
+  {
+    "id": "1019",
+    "name": "Dexter DeShawn",
+    "bio": "Dex is one of the biggest fixers in Night City. He's a pretty big deal, both literally and figuratively. Word on the street is that there were complications from his last job, but that's just the nature of biz, ain't it? Besides, when someone like Dexter DeShawn has a gig for you, you don't ask questions - you just shake on it.",
+    "friends": ["1022"],
+    "avatarUrl": "/images/Avatars/Dexter.PNG"
+  },
+  {
+    "id": "1020",
+    "name": "Alt Cunningham",
+    "bio": "Alt Cunningham - the best netrunner in Night City, the most powerful 'entity' on either side of the Blackwall and the only person who can put Johnny Silverhand in his place. Fun fact: Soulkiller was created by Alt before Arasaka stole it for nefarious purposes, forcing Alt to escape into cyberspace. Existing beyond the Blackwall has severly altered Alt's concioussness, making her more rogue AI than human. The last weak link to her past is Johnny - he and V are the ones who used the Voodoo Boys to lure Alt from out past the Blackwall.",
+    "friends": ["1006", "1007", "1016", "1027"],
+    "avatarUrl": "/images/Avatars/Alt.PNG"
+  },
+  {
+    "id": "1021",
+    "name": "Viktor Vektor",
+    "bio": "If you want a decent chrome, you go to Vik's. While other places might look like spaceship interiors crossed with zen rooms, his ripperdoc clinic is no-nonsense and doesn't bombard customers with corporate logos. If you're nice, he might even give you a beer with your anesthesia before he starts cutting.",
+    "friends": ["1006", "1008", "1009", "1017", "1023"],
+    "avatarUrl": "/images/Avatars/Viktor.PNG"
+  },
+  {
+    "id": "1022",
+    "name": "Royce",
+    "bio": "Royce isn't the kind of guy you forget, and not just because his fashion sense includes a set of red-hot LED optics straight from hell. No - what stays burned in your memory is his manic-obsessive, erratic, paranoid, Triphet-tweaked behavior. As a leader, he's always been polarizing. Either his goons love him... or they hate him.",
+    "friends": ["1019"],
+    "avatarUrl": "/images/Avatars/Royce.PNG"
+  },
+  {
+    "id": "1023",
+    "name": "Goro Takemura",
+    "bio": "The only bodyguard of Saburo Arasaka who truly done f***ed up. While obeying orders, he was unable to prevent the death of his master at the hands of Saburo's son, Yorinobu. After the Relic was stolen, Takemura went after the thieves, eventually leading him to a landfill, where he zeroed Dexter Deshawn and saved V - the sole living witness to Yorinobu's crime. In his mission to find the truth, Takemura became Arasaka's most wanted fugitive pursued by every agent in Night City. ",
+    "friends": ["1006", "1017", "1021" ],
+    "avatarUrl": "/images/Avatars/Takemura.PNG"
+  },
+  {
+    "id": "1024",
+    "name": "Wakako Okada",
+    "bio":"If you're looking for decent-paying gigs in Westbrook, go to the pachinko parlor on Jig-Jig Street run by a fixer named Wakako Okada. Rumors abound, but as of yet nobody's worked up the nerve to ask her about her past and her very many, very dead husbands. She didn't kill any of them, probably, but hey, what's important is that they're gone and she's still going strong, growing richer and more powerful by the day.",
+    "friends": ["1006", "1008", "1025"],
+    "avatarUrl": "/images/Avatars/Wakako.PNG"
+  },
+  {
+    "id": "1025",
+    "name": "Regina Jones",
+    "bio": "A fixer with Chinese heritage operating out of Watson. She used to work as an independent reporter for FTF Radio, but after the station was acquired by the media conglomerate News 54, Regina decided it was time to find a better medium to spread her message. She mobilized all her contacts - from the highest-ranking corpos to the lowliest dealers, gangers, mercs, bums and junkies. From their point of view, Regina hasn't changed a bit - she's always been a fighter, a girl from the streets. The only difference is that before she bought gossip and sold news - now she spins both",
+    "friends": ["1006", "1013", "1024"],
+    "avatarUrl": "/images/Avatars/Regina.PNG"
+  },
+  {
+    "id": "1026",
+    "name": "Padre Ibarra",
+    "bio": "Real name - Sebastian Ibarra. Formerly a priest in the Valentinos, but after the bloodbath in Moto Cielo he converted to a more noble calling - that of the fixer. He started out by lining up jobs exclusively for his people from Heywood and the Valentinos - later he even shook hands with the likes of 6th Street. Who knows, maybe it's because he softened up in his old age, or maybe it's because all gangs are equal in the eyes of God.",
+    "friends": ["1006", "1009"],
+    "avatarUrl": "/images/Avatars/Padre.PNG"
+  },
+  {
+    "id": "1027",
+    "name": "Rogue Amendiares",
+    "bio": "In her younger days she was a professional merc - today she's the queen of fixers. One of the last legends of Night City who's more than just handed-down stories. Unlike her friends from the good ol' days (read: Johnny Silverhand), Rogue does more than get by - she runs the Afterlife and by definition almost the entire Night City merc network. Every serious job needs her thumbs up, and V's mission to find Anders Hellman is very serious indeed.",
+    "friends": ["1006", "1007", "1016", "1020"],
+    "avatarUrl": "/images/Avatars/Rogue.PNG"
+  },
+  {
+    "id": "1028",
+    "name": "Hanako Arasaka",
+    "bio": "Daughter of Saburo Arasaka and one of the most enigmatic figures in the Arasaka Corporation. Her past is shrouded in secrecy and closely guarded by a team of lawyers prepared to torpedo any journal inquiry into her life. The predominant theory about her early life suggests that she was forbidden from leaving the Arasaka family's residence near Tokyo until she came of age. Only her skills as a netrunner kept Hanako from becoming completely cut off from the outside world. ",
+    "friends": ["1014", "1015"],
+    "avatarUrl": "/images/Avatars/Hanako.PNG"
+  }
+
+]
+
