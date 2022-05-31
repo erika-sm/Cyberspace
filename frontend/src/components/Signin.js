@@ -70,7 +70,7 @@ const SignIn = () => {
             <InputBox
               type="text"
               required
-              placeholder="Enter you name"
+              placeholder="Enter your name"
               value={user}
               onChange={(e) => setUser(e.target.value)}
             />
