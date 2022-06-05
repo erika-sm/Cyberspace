@@ -7,7 +7,7 @@ Social media platform inspired by the game Cyberpunk 2077. User can login as any
 https://user-images.githubusercontent.com/91225565/171292157-77b90fc3-f1b3-47c8-9166-c7e6593cbd88.mov
 
 
-## Tech used: 
+## Tech stack: 
 
 - Javascript
 - React
